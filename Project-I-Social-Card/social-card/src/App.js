@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import 'Project-I-Social-Card/social-card/src/components/HeaderComponents/HeaderContainer.js'
+import CardContainer from './components/CardComponents/CardContainer';
 const App = () => {
   return (
     <div>
@@ -17,6 +17,7 @@ const App = () => {
           inside of this file in order to make them work.
         </strong>
       </p>
+      <CardContainer></CardContainer>
     </div>
   );
 };

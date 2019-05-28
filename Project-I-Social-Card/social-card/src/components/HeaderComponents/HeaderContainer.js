@@ -1,11 +1,11 @@
 import React from 'react';
 import './Header.css';
-
+import ImageThumbnail from './ImageThumbnail';
 const HeaderContainer = () => {
 
     return (
         <div>
-          <h3>Lambda School</h3>
+          <ImageThumbnail></ImageThumbnail>
         </div>
       );
 };
