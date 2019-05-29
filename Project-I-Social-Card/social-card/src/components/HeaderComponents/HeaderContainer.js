@@ -6,10 +6,10 @@ import HeaderTitle from '../HeaderComponents/HeaderTitle'
 const HeaderContainer = () => {
 
     return (
-        <div>
+        <div className='headerCont'>
           <ImageThumbnail></ImageThumbnail>
           <HeaderTitle></HeaderTitle>
-          <HeaderContent></HeaderContent>
+        <HeaderContent className='hc'></HeaderContent>
         </div>
       );
 };
