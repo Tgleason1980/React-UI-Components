@@ -1,0 +1,13 @@
+.display{
+    border: 1px solid grey;
+    display: flex;
+    width: 206px;
+    height: 80px;
+    background-color: black;
+    color: white;
+}
+.output{
+font-size: 60px;
+margin: 10px;
+
+}

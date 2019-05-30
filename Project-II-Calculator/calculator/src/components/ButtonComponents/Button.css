@@ -1,0 +1,38 @@
+button{
+    border: 1px solid grey;
+    background-color: white;
+    font-size: 40px;
+    width: 52px;
+}
+.clear{
+    font-weight: normal;
+    width: 156px;
+}
+.division{
+    color: white;
+    background-color: red;
+    width: 52px;
+}
+.times{
+    color: white;
+    background-color: red;
+    width: 52px;
+}
+.minus{
+    color: white;
+    background-color: red;
+    width: 52px;
+}
+.plus{
+    color: white;
+    background-color: red;
+    width: 52px;
+}
+.equals{
+    color: white;
+    background-color: red;
+    width: 52px;
+}
+.zero{
+    width: 156px;
+}
