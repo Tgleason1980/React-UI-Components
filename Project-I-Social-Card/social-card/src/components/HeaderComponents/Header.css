@@ -3,6 +3,26 @@
 .headerCont{
     display: flex;
 }
-.hc{
+.contvert{
     flex-direction: column;
+}
+.thumbnail{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    padding: 5px;
+    border-radius: 50%;
+}
+.ht{
+    display: flex;
+}
+h4{
+    color: grey;
+    font-weight: lighter;
+    margin-left: 5px;
+}
+li{
+    color: grey;
+    font-weight: lighter;
+    margin-top: 5px;
 }
